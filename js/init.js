@@ -158,4 +158,4 @@
 
 })(jQuery);
 
-var lightbox = $('.gallery a').simpleLightbox(options);
+//var lightbox = $('.gallery a').simpleLightbox(options);
